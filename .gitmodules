@@ -1,1 +1,16 @@
 
+[submodule "_bibliography"]
+	path = _bibliography
+	url = https://github.com/KonstantinosTourtsakis/bibliography.git
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/KonstantinosTourtsakis/_gallery.git
+[submodule "_notes"]
+	path = _notes
+	url = https://github.com/KonstantinosTourtsakis/notes.git
+[submodule "_quotes"]
+	path = _quotes
+	url = https://github.com/KonstantinosTourtsakis/_quotes.git
+[submodule "images"]
+	path = images
+	url = https://github.com/KonstantinosTourtsakis/images.git
