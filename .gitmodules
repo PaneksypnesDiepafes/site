@@ -14,3 +14,9 @@
 [submodule "images"]
 	path = images
 	url = https://github.com/KonstantinosTourtsakis/images.git
+[submodule "_includes/extras"]
+	path = _includes/extras
+	url = https://github.com/KonstantinosTourtsakis/extras.git
+[submodule "_includes/text"]
+	path = _includes/text
+	url = https://github.com/KonstantinosTourtsakis/text.git
