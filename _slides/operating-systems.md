@@ -17,4 +17,5 @@ slides:
   - x-windows-system
   - xanadu-mockup
   - xerox-cedar
+  - openBSD
 ---

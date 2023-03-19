@@ -7,4 +7,5 @@ events:
   - cpm 
   - ms-dos 
   - plan9
+  - openBSD
 ---

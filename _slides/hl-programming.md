@@ -12,4 +12,5 @@ slides:
   - grail-flow
   - unix-shell
   - smalltalk
+  - julia
 ---
