@@ -7,4 +7,5 @@ events:
   - Runit
   - openrc
   - sysv
+  - systemd
 ---
