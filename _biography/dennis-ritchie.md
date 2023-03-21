@@ -14,4 +14,4 @@ tags:
   - UNIX
 ---
 
-{% include bio-dennnis.md %}
+{% include bio-dennis.md %}
