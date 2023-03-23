@@ -18,4 +18,5 @@ slides:
   - xanadu-mockup
   - xerox-cedar
   - openBSD
+  - tiny-core
 ---
